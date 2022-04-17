@@ -1,0 +1,19 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+body {
+    background-color: lightgray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+
+head {
+    background-color: slategray;
+}
+
+.border-top {
+    background-color: slategray;
+}
