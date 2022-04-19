@@ -4,14 +4,7 @@ body {
     color: #ffffff;
  }
  
- a {
-     color:rgb(128, 253, 242);
-     text-decoration: none;
- }
 
-a:hover {
-    text-decoration: underline;
-}
 
  h4 {
      font-size: 24px;

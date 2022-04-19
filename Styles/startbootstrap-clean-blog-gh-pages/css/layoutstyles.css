@@ -5,6 +5,15 @@ body {
     color: #7ab6b9;
 }
 
+a {
+    color:rgb(128, 253, 242);
+    text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline;
+}
+
 .common {
     /*border: solid 2px white;*/
     position: absolute
