@@ -6,12 +6,12 @@ body {
 }
 
 .common {
-    background-color: navy;
     /*border: solid 2px white;*/
     position: absolute
 }
 
 .header {
+    background-color: navy;
     top: 5px;
     left: 5px;
     right: 5px;
@@ -42,6 +42,7 @@ body {
 }
 
 .footer {
+    background-color: navy;
     bottom: 5px;
     right: 5px;
     left: 5px;
